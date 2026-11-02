@@ -1,0 +1,6 @@
+surface,coefficient,source,page_or_table
+concrete,0.70,RDSO Handbook on Rain Water Harvesting,Table 2 - Run off Coefficient for various surfaces
+tiles,0.85,RDSO Handbook on Rain Water Harvesting,Table 2 - Roof catchment tiles range 0.8-0.9
+metal,0.80,RDSO Handbook on Rain Water Harvesting,Table 2 - Corrugated metal sheets range 0.7-0.9
+asbestos,0.80,CPCB Manual on Artificial Recharge of Ground Water,Table 7.2 - Asbestos 0.8
+ground,0.20,RDSO Handbook on Rain Water Harvesting,Table 2 - Untreated soil slope below 10 percent range 0.0-0.3

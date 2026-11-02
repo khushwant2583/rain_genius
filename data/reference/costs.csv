@@ -1,0 +1,7 @@
+item,unit,low_inr,high_inr,source
+storage_tank,per_1000L,6000,12000,PLACEHOLDER - replace with a state schedule of rates or installer quotes
+recharge_pit,each,15000,40000,PLACEHOLDER - replace with a state schedule of rates or installer quotes
+filter_firstflush,each,3000,8000,PLACEHOLDER - replace with a state schedule of rates or installer quotes
+plumbing,lump,4000,10000,PLACEHOLDER - replace with a state schedule of rates or installer quotes
+farm_pond,per_m3,200,350,PLACEHOLDER - replace with a state schedule of rates or installer quotes
+farm_pond_lined,per_m3,300,500,PLACEHOLDER - replace with a state schedule of rates or installer quotes
