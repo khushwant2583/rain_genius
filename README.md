@@ -109,7 +109,3 @@ LangGraph's in-memory checkpointer preserves a thread's profile while the Python
 - **Ollama model missing:** run `ollama list`, then `ollama pull qwen2.5:3b`; ensure `RAIN_MODEL` exactly matches a listed model.
 - **Ollama connection refused:** open the Ollama desktop app or start its service; test `ollama run qwen2.5:3b` in a separate terminal. Rule-only mode remains available with `USE_MODEL=0`.
 - **LangGraph import missing:** activate `.venv` and run `python -m pip install -r requirements.txt`.
-
-## Limitations
-
-The initial advisor is intentionally conservative. It does not estimate construction cost, guarantee water demand coverage, certify recharge suitability, or promise subsidy approval. Drinking water must be appropriately treated and tested before consumption. A qualified local engineer/authority should assess final construction decisions.
